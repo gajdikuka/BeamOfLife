@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ogimage" size="1.000000 0.525000" />
+    <ImageTarget name="goat-dreaming" size="1.000000 0.562687" />
+    <ImageTarget name="1000sheep3" size="1.000000 0.600000" />
+    <ImageTarget name="Marker-00" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
